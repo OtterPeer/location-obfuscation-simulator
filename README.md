@@ -58,7 +58,7 @@ The script will generate a PNG file named simulation<private_key>.png `(e.g., si
 
 ## Usage in OtterPeer App
 
-This simulation script is derived from the geolocation obfuscation logic implemented in the OtterPeer app, specifically under the OP-56-Geolocation branch of the repository: https://github.com/OtterPeer/otter-peer/tree/OP-56-Geolocation. It mirrors the dummyLocation, privateKeyToOffset, and randomPointInSquare functions used in the app to generate privacy-preserving dummy locations. The simulation helps validate and visualize the obfuscation algorithm's behavior, ensuring it effectively protects user privacy while maintaining proximity-based functionality in the OtterPeer app.
+This simulation script is derived from the geolocation obfuscation logic implemented in the OtterPeer app, specifically under the OP-56-Geolocation branch of the repository: https://github.com/OtterPeer/otter-peer/tree/OP-56-Geolocation under the https://github.com/OtterPeer/otter-peer/pull/29. It mirrors the dummyLocation, privateKeyToOffset, and randomPointInSquare functions used in the app to generate privacy-preserving dummy locations. The simulation helps validate and visualize the obfuscation algorithm's behavior, ensuring it effectively protects user privacy while maintaining proximity-based functionality in the OtterPeer app.
 
 ## Example Output
 
